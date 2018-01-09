@@ -1,0 +1,15 @@
+*Webpack and Babel compiles JSX Code (i.e. <div></div> inside js files)
+*JSX replaces writing HTML.
+*React environment lives in src/
+*Goal of react is make writing complex applications simple.
+*What is JSX instances?
+
+
+Terminology
+*Components(a.k.a. Views) - Snippets of JS functions that produce HTML.
+
+
+ES6
+*const >>> Final value of a variable (never reassign the variable)
+*modules >>> Seperating code into different files which means that if I want to use that file in another file I have to import it.
+  *import React from 'react';
